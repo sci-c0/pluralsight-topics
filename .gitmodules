@@ -1,3 +1,3 @@
 [submodule "python-pandas"]
-	path = python-pandas
+	path = 02_python-pandas
 	url = git@github.com:Nishant-Mishra/pluralsight-python-pandas.git
