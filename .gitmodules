@@ -3,4 +3,6 @@
 	url = git@github.com:Nishant-Mishra/pluralsight-python-pandas.git
 [submodule "core-python"]
 	path = 01_core-python
-	url = git@github.com:Nishant-Mishra/pluralsight-core-python.git
+    url = git@github.com:Nishant-Mishra/pluralsight-core-python.git
+    branch = master
+
